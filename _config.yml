@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shijie Gao"
 title_separator          : "-"
-name                     : &name "Shijie Gao"
+name                     : &name "Shijie Gao (高士杰)"
 description              : &description "Ph.D. student at University of Virginia"
 url                      : https://shijiegao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
