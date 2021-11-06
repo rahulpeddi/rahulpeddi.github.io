@@ -2,7 +2,6 @@
 title: "Exploiting ground and ceiling effects on autonomous UAV motion planning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-08-15
 venue: '2019 International Conference on Unmanned Aircraft Systems (ICUAS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8798091'
