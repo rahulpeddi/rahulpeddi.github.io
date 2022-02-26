@@ -32,7 +32,7 @@
       {% elsif post.collection == 'publications' and post.detail == "enabled" %}
         <!-- {{ title }} -->
         {{ title }}<a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-info-circle"
-            aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            aria-hidden="true" title="learn more"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
