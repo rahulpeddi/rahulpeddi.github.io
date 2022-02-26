@@ -17,5 +17,5 @@ header:
 
 {% for post in ordered_pages reversed%}
   <!-- {% include archive-single.html type="grid" %} -->
-  {% include archive-single.html %}
+  {% include archive-single-research.html %}
 {% endfor %}
