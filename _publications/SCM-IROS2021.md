@@ -3,7 +3,7 @@ title: "A Conformal Mapping-based Framework for Robot-to-Robot and Sim-to-Real T
 collection: publications
 detail: "enabled"
 # permalink: /publication/SCM-IROS2021
-permalink: /talks/2021-09-27-talk
+permalink: /research/SCM
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-09-27
 venue: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'

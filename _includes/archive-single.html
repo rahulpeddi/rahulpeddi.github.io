@@ -30,7 +30,6 @@
       {%if post.collection == 'publications' and post.detail == "disabled" %}
         {{ title }}
       {% elsif post.collection == 'publications' and post.detail == "enabled" %}
-        <!-- {{ title }} -->
         {{ title }}<a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-info-circle"
             aria-hidden="true" title="learn more"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.link %}

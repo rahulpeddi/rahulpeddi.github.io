@@ -13,9 +13,3 @@ location: "CHarlottesville, VA, USA"
 
 [More information here](/files/pdf/talks/RIA_poster.pdf)
 
-
-
-<!-- news1[AMR 21 News](https://engineering.virginia.edu/news/2021/11/putting-it-all-line)
-news2[Spot](https://engineering.virginia.edu/news/2021/04/see-spot)
-news3[pandemic AMR](https://engineering.virginia.edu/news/2020/11/navigating-obstacles)
-news4[map U-Hall](https://news.virginia.edu/content/demolition-looming-university-hall-scanned-photographed-history?utm_source=DailyReport&utm_medium=email&utm_campaign=news) -->
