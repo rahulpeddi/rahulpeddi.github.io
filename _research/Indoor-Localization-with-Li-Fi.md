@@ -9,3 +9,8 @@ brief: 'In this project, I integrated phidgets boards and sensors on a unmanned 
 # header: 
 #   og_image: "research/epr.png"
 ---
+## I'll put more details soon! Please remember to get back to see!
+
+<iframe src="/files/pdf/talks/RIA_poster.pdf" width="100%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my poster [here](/files/pdf/talks/RIA_poster.pdf)
