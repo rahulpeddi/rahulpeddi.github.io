@@ -8,7 +8,9 @@ order_number: 30
 brief: 'Planning and control methods developed in simulations can behave differently on real systems due to the gap between sim and real. However, such mismatches are usually not too significant that can potentially be corrected by stretching/extruding the input space in sim to match with the action in real. Inspired by this idea, we deliver a conformal-mapping-based frame work for transferring planning and control methods between sim-to-real/real-to-real.'
 ---
 
-<!-- Robotic applications are typically built considering specific systems. Nowadays, most of the control and the planning algorithms are developed through simulations which offer a practical and inexpensive mean to create and test. However, as the simulation cannot be perfectly the same as the real world, there are always mismatches between the simulated world and the reality. The  researchers have to spent a good amount of time to dep
+<!-- Robotic applications are typically built considering specific systems. Nowadays, most of the control and the planning algorithms are developed through simulators which offer a practical and inexpensive mean to create and test. However, the robotic system models used in simulators cannot be perfectly the same as they are in the real world. Even though the models are good enough, the environment that the robots interact with in the simulator cannot capture all the features that happen in the reality (e.g. wind disturbance, frictions, etc.,). Due to the reasons mentioned above, when deploying the newly developed algorithms, the 
+
+there are always mismatches between the robotic systems in the simulated world and the reality. The  researchers have to spent a good amount of time to dep
 Besides the **Sim-to-Real gap**, similar gaps can also be seen when:
 -  -->
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me <img src='/images/Shijie_name.png' alt='drawing' width='150px'/>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
