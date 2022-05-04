@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello and welcome! I am currently a Ph.D. candidate in Systems and Information Engineering at the University of Virginia. I work in the Autonomous Mobile Robots (AMR) Lab and Link Lab under the advisement of Prof. Nicola Bezzo. Before joining the AMR Lab, I obtained my B.S. in Mechanical and Nuclear Engineering at Virginia Commonwealth University (VCU) in 2017.
+
+Currently my research focuses on robot motion planning and navigation under uncertainty, including robot social planning in the presence of humans and other dynamic actors, fault-tolerant control and planning, and resilient and coordinated planning of multi-agent autonomous systems. Through my work, I have cultivated experience in machine learning/artificial intelligence, model predictive control (MPC), optimal control, image processing, and using ROS along with Python and C++. Other research topics that I find interesting and would like to explore in the future include: medical robotics
+
+Within the AMR Lab, our research focuses on how to make cyber-physical systems (which include aerial and mobile ground vehicles) resilient to various adverse environments while operating autonomously. Check out our lab website to see what my colleagues are working on and what types of robots we work with on a regular basis. 
+
+
 
 A data-driven personal website
 ======
