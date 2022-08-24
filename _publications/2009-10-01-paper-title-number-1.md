@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/ral22
 date: March 2022
 venue: 'Robotics and Automation Letters'
-paperurl: 'http://rahulpeddi.github.io/files/ral22.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/9723553'
 ---
 [Download paper here](http://rahulpeddi.github.io/files/ral22.pdf)
