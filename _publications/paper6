@@ -1,9 +1,9 @@
 ---
-title: "Interpretable Run-Time Prediction and Planning in Co-Robotic Environments"
+title: "Parameter-free Regression-based Autonomous Control of Off-the-shelf Quadrotor UAVs"
 collection: publications
-permalink: /publication/iros21
-date: December 2021
-venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'https://ieeexplore.ieee.org/document/9636282'
+permalink: /publication/icuas19
+date: August 2019
+venue: 'International Conference on Unmanned Aircraft Systems (ICUAS)'
+paperurl: 'https://ieeexplore.ieee.org/document/8798034'
 ---
-[Download paper here](http://rahulpeddi.github.io/files/iros21.pdf)
+[Download paper here](http://rahulpeddi.github.io/files/icuas.pdf)
