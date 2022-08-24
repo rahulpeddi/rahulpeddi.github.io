@@ -6,4 +6,4 @@ date: January 2022
 venue: 'IEEE Transactions on Robotics'
 paperurl: 'https://ieeexplore.ieee.org/document/9686360'
 ---
-[Link to the publication here](http://rahulpeddi.github.io/files/ral22.pdf)
+[Download paper here](http://rahulpeddi.github.io/files/ral22.pdf)
