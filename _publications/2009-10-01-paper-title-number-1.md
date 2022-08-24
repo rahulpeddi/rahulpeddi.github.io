@@ -6,4 +6,4 @@ date: March 2022
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9723553'
 ---
-[Link to the publication here](http://rahulpeddi.github.io/files/ral22.pdf)
+[Download paper here](http://rahulpeddi.github.io/files/ral22.pdf)
